@@ -352,7 +352,7 @@ Returns:
 
 Emitted when the gpu process crashes or is killed.
 
-#### Event: 'renderer-process-crashed'
+### Event: 'renderer-process-crashed'
 
 Returns:
 
